@@ -1,0 +1,7 @@
+path: C:\Users\shaiiikh\py\attempt\data
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 4
+names: ['Cut', 'Hole', 'Stain', 'ThreadError']
